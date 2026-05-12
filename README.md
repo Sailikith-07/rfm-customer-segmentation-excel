@@ -13,6 +13,8 @@ Using RFM segmentation across 4 years of transaction data, this analysis breaks 
 
 An interactive excel dashboard can be downloaded [here](https://github.com/Sailikith-07/rfm-customer-segmentation-excel/blob/main/RFM_Project.xlsx)
 
+A simple presentation that provides a clear and detailed explanation of the project is [here](https://github.com/Sailikith-07/rfm-customer-segmentation-excel/blob/main/Customer%20Segmentation%20-%20RFM%20Analysis.pdf)
+
 ---
 
 ## 🚀 Executive Summary (FY 2018 Audit)
