@@ -61,7 +61,12 @@ The store is currently surviving on its legacy base, but this is a high-risk str
 
 ---
 
-## 🔗 Links & Resources
-* **[Link to Excel Workbook]**
-* **[Link to Dataset]**
-* **[Link to Main Portfolio/LinkedIn]**
+# Author & Contact
+
+**Gundeti Sailikith**
+
+Aspiring Data Analyst
+
+📧 Email: gundetisalikith@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sailikith-gundeti/)
