@@ -11,7 +11,7 @@ Using RFM segmentation across 4 years of transaction data, this analysis breaks 
 * **Seasonal Demand:** Evaluating peak order periods and marketing timing.
 * **Product Category Depth:** Investigating high-spend verticals like Tech Hardware.
 
-An interactive excel dashboard can be downloaded here
+An interactive excel dashboard can be downloaded [here](https://github.com/Sailikith-07/rfm-customer-segmentation-excel/blob/main/RFM_Project.xlsx)
 
 ---
 
